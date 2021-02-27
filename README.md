@@ -1,4 +1,4 @@
-# love_calculator
+# Calculator
 
 A new Flutter project.
 
